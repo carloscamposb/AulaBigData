@@ -1,1 +1,1 @@
-Atividades desenvolvidas durante a disciplina de BigData  📊
+Atividades desenvolvidas durante a disciplina de BigData  📊.
